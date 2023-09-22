@@ -7,13 +7,13 @@
 Para este desafio, vou usar meus conhecimentos adquiridos de API e Entity Framework.
 
 ## **Contexto**
-Vou precisar construir um sistema de filmes, onde vou poder cadastrar uma lista de filmes.
+Vou precisar construir um sistema de Pets, onde vou poder cadastrar uma lista de Pets.
 
-Essa lista de filmes precisa ter um CRUD, ou seja, deverá permitir obter os registros, criar, salvar e deletar esses registros.
+Essa lista de pets precisa ter um CRUD, ou seja, deverá permitir obter os registros, criar, salvar e deletar esses registros.
 
 A será do tipo Web API.
 
-A sua classe principal, a classe de Filme, deve ser a seguinte:
+A sua classe principal, a classe de Pet, deve ser a seguinte:
 
 <img src="Image/obj_tarefa.png" alt="logo_samuelflm">
 
