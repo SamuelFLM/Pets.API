@@ -7,7 +7,7 @@
 Para este desafio, vou usar meus conhecimentos adquiridos de API e Entity Framework.
 
 ## **Contexto**
-Vou precisar construir um sistema de Pets, onde vou poder cadastrar uma lista de Pets.
+Vou precisar construir um sistema de Pets, onde vou poder cadastrar uma lista de Pets..
 
 Essa lista de pets precisa ter um CRUD, ou seja, deverá permitir obter os registros, criar, salvar e deletar esses registros.
 
